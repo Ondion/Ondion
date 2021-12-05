@@ -2,4 +2,4 @@
  
  
  ## 💻JavaScript e Python
-![teste](https://octodex.github.com/images/collabocats.jpg)
+![teste](octocat.jpg)

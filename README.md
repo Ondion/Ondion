@@ -1,5 +1,2 @@
-# Olá! É sempre bom ver você aqui!**
- 
- 
- ## 💻JavaScript e Python
+# Olá! É sempre bom ver você aqui!
 ![teste](octocat.jpg)

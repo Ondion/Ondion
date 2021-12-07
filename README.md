@@ -1,2 +1,1 @@
-# Oi!     É sempre bom ver você aqui! ![teste](octocat.jpg)
-
+# Oi, é sempre bom ver você aqui! ![teste](octocat.jpg)

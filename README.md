@@ -1,15 +1,25 @@
 <div style="text-align: center;">
-  <h1>Hi & Welcome! <img width="40px" src="images/wave.gif"></h1>
-  <hr><br>
-<div>
+  <h1>Hi & Welcome!, I`m Fábio Xavier! <img width="35px" src="images/wave.gif"></h1>
+</div>
 
+I am a passionate **Javascript** and **Python** Developer, always involved with technology and working on something interesting.  
+I love developing things, ideas, and people! Nothing brings me more joy than help people and learn together.  
+  
+You can reach me at:
+
+<a href = "mailto:fabio.xavier@live.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/fabionxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+
+
+<img style="display: block;" width="600px" src="images/octocat.jpg" />
 <div style="display: inline-block;">
   <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondion&layout=compact" />
   <img width="408px" src="https://github-readme-stats.vercel.app/api?username=Ondion&show_icons=true" />
 <div>
 
-<div>
-  <hr>
+<hr>
+<p style="color: green;"><strong>🔭 currently I've been doing things with ...</strong></p>
+<div style="background: white; border-radius: 15px;">
   <img width="35px" src="images/azure-original-wordmark.svg" alt="azure icon"/>
   <img width="35px" src="images/bootstrap-original-wordmark.svg" alt="bootstrap icon"/>
   <img width="35px" src="images/django-plain-wordmark.svg" alt="django icon"/>

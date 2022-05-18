@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Olá, seja bem vindo!</h1>
+  <h1>Hi & Welcome! <img width="40px" src="images/wave.gif"></h1>
   <hr><br>
 <div>
 

@@ -11,7 +11,7 @@ You can reach me at:
 <a href="https://www.linkedin.com/in/fabionxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 
-<img style="display: block;" width="600px" src="images/octocat.jpg" />
+<img style="display: block;" width="750px" src="images/octocat.jpg" />
 <div style="display: inline-block;">
   <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondion&layout=compact" />
   <img width="408px" src="https://github-readme-stats.vercel.app/api?username=Ondion&show_icons=true" />

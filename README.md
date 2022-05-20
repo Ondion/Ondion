@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Hi & Welcome!, I`m Fábio Xavier! <img width="35px" src="images/png-transparent-octocat.png"></h1>
+  <h1>Hi & Welcome!, I`m Fábio Xavier! :octocat:</h1>
 </div>
 
 I am a passionate **Javascript** and **Python** Developer, always involved with technology and working on something interesting.  

@@ -1,7 +1,7 @@
 <div style="text-align: center;">
   <h1>Hi & Welcome!, I`m Fábio Xavier! :octocat:</h1>
 </div>
-I am a passionate Javascript and Python Developer, always involved with technology and working on something interesting.  
+I`m a passionate Javascript and Python Developer, always involved with technology and working on something interesting.  
 I love developing things, ideas, and people! Nothing brings me more joy than help people and learn together.  
   
 You can reach me at:

@@ -3,7 +3,7 @@
 </div>
 I`m a passionate Javascript and Python Developer, always involved with technology and working on something interesting.  
 I love developing things, ideas, and people! Nothing brings me more joy than help people and learn together.  
-  
+<br/>  
 You can reach me at:
 
 <a href = "mailto:fabio.xavier@live.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>

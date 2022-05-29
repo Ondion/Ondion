@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Hi & Welcome!!, I`m Fábio Xavier! :octocat:</h1>
+  <h1>Hi & Welcome, I`m Fábio Xavier! :octocat:</h1>
 </div>
 <p>I`m a passionate <strong>Javascript</strong> and <strong>Python</strong> Developer, always involved with technology and working on something interesting.  
 I love developing things, ideas, and people! Nothing brings me more joy than help people and learn together.</p>

@@ -19,7 +19,7 @@ You can reach me at:
 
 <hr>
 <p style="color: green;"><strong>🔭 currently I've been doing things with ...</strong></p>
-<div style="background: white; border-radius: 15px;">
+<div style="background: #FFFFFF; border-radius: 15px;">
   <img width="35px" src="images/azure-original-wordmark.svg" alt="azure icon"/>
   <img width="35px" src="images/bootstrap-original-wordmark.svg" alt="bootstrap icon"/>
   <img width="35px" src="images/django-plain-wordmark.svg" alt="django icon"/>

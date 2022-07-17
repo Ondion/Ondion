@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Hi & Welcome, I`m Fábio Xavier! :octocat:</h1>
+  <h1>Welcome, I`m Fábio Xavier! :octocat:</h1>
 </div>
 <p>I`m a passionate <strong>Javascript</strong> and <strong>Python</strong> Developer, always involved with technology and working on something interesting.  
 I love developing things, ideas, and people! Nothing brings me more joy than help people and learn together.</p>
@@ -20,23 +20,23 @@ You can reach me at:
 <hr>
 <p><strong>🔭 currently I've been doing things with ...</strong></p>
 <div>
-  <img width="35px" src="images/azure-original-wordmark.svg" alt="azure icon"/>
-  <img width="35px" src="images/bootstrap-original-wordmark.svg" alt="bootstrap icon"/>
-  <img width="35px" src="images/django-plain-wordmark.svg" alt="django icon"/>
-  <img width="35px" src="images/docker-original-wordmark.svg" alt="docker icon"/>
-  <img width="35px" src="images/express-original-wordmark.svg" alt="express icon"/>
-  <img width="35px" src="images/fastapi-original-wordmark.svg" alt="fastapi icon"/>
-  <img width="35px" src="images/flask-original-wordmark.svg" alt="flask icon"/>
-  <img width="35px" src="images/javascript-original.svg" alt="javascript icon"/>
-  <img width="35px" src="images/jest-plain.svg" alt="jest icon"/>
-  <img width="35px" src="images/jupyter-original-wordmark.svg" alt="jupyter icon"/>
-  <img width="35px" src="images/mysql-original-wordmark.svg" alt="mysql icon"/>
-  <img width="35px" src="images/nodejs-original-wordmark.svg" alt="nodejs icon"/>
-  <img width="35px" src="images/numpy-original-wordmark.svg" alt="numpy icon"/>
-  <img width="35px" src="images/pandas-original-wordmark.svg" alt="pandas icon"/>
-  <img width="35px" src="images/react-original-wordmark.svg" alt="react icon"/>
-  <img width="35px" src="images/redux-original.svg" alt="redux icon"/>
-  <img width="35px" src="images/typescript-original.svg" alt="typescript icon"/>
-  <img width="35px" src="images/ubuntu-plain-wordmark.svg" alt="ubuntu icon"/>
-  <img width="35px" src="images/unix-original.svg" alt="unix icon"/>
+  <img width="35px" src="images/azure-original-wordmark.svg" alt="azure icon"/>Azure
+  <img width="35px" src="images/bootstrap-original-wordmark.svg" alt="bootstrap icon"/>Bootstrap
+  <img width="35px" src="images/django-plain-wordmark.svg" alt="django icon"/>Django
+  <img width="35px" src="images/docker-original-wordmark.svg" alt="docker icon"/>Docker
+  <img width="35px" src="images/express-original-wordmark.svg" alt="express icon"/>Express
+  <img width="35px" src="images/fastapi-original-wordmark.svg" alt="fastapi icon"/>FastAPI
+  <img width="35px" src="images/flask-original-wordmark.svg" alt="flask icon"/>Flask
+  <img width="35px" src="images/javascript-original.svg" alt="javascript icon"/>JavaScript
+  <img width="35px" src="images/jest-plain.svg" alt="jest icon"/>Jest
+  <img width="35px" src="images/jupyter-original-wordmark.svg" alt="jupyter icon"/>Jupyter Notebook
+  <img width="35px" src="images/mysql-original-wordmark.svg" alt="mysql icon"/>MySQL
+  <img width="35px" src="images/nodejs-original-wordmark.svg" alt="nodejs icon"/>Node
+  <img width="35px" src="images/numpy-original-wordmark.svg" alt="numpy icon"/>Numpy
+  <img width="35px" src="images/pandas-original-wordmark.svg" alt="pandas icon"/>Pandas
+  <img width="35px" src="images/react-original-wordmark.svg" alt="react icon"/>React-JS
+  <img width="35px" src="images/redux-original.svg" alt="redux icon"/>Redux
+  <img width="35px" src="images/typescript-original.svg" alt="typescript icon"/>Typescript
+  <img width="35px" src="images/ubuntu-plain-wordmark.svg" alt="ubuntu icon"/>Ubuntu
+  <img width="35px" src="images/unix-original.svg" alt="unix icon"/>Unix
 </div>

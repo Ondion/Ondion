@@ -23,12 +23,12 @@ You can reach me at:
 
   | Front      | Back       | Web3     | Machine Learning | Deployment | Tests                 |
 |------------|------------|----------|------------------|------------|-----------------------|
-| Bootstrap  | Django     | Ether.js | Jupyter Notebook | Azure      | Chai                  |
-| JavaScript | Express    | Hardhat  | Numpy            | Docker     | Jest                  |
-| Next.js    | FastAPI    | Moralis  | Pandas           | Heroku     | Mocha                 |
-| React.js   | Flask      | Solidity | Scikit Learn     | Ubuntu     | React Testing Library |
-| Redux      | MySQL      |          |                  | Unix       | Sinon                 |
-|            | Node       |          |                  |            |                       |
+| Bootstrap  | Django     | Ether.js | Jupyter Notebook | AWS        | Chai                  |
+| JavaScript | Express    | Hardhat  | Numpy            | Azure      | Jest                  |
+| Next.js    | FastAPI    | Moralis  | Pandas           | Docker     | Mocha                 |
+| React.js   | Flask      | Solidity | Scikit Learn     | Heroku     | React Testing Library |
+| Redux      | MySQL      |          |                  | Ubuntu     | Sinon                 |
+|            | Node       |          |                  | Unix       |                       |
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
 

@@ -20,14 +20,14 @@ You can reach me at:
 <hr>
 <p><strong>🔭 currently I've been doing things with ...</strong></p>
 
-  | Front      | Back       | Web3     | Machine Learning | Deployment | Tests                 |
+| Front-end  | Back-end   | Web3     | Machine Learning | Deployment | Tests                 |
 |------------|------------|----------|------------------|------------|-----------------------|
 | Bootstrap  | Django     | Ether.js | Jupyter Notebook | AWS        | Chai                  |
-| JavaScript | Express    | Hardhat  | Numpy            | Azure      | Jest                  |
-| Next.js    | FastAPI    | Moralis  | Pandas           | Docker     | Mocha                 |
-| React.js   | Flask      | Solidity | Scikit Learn     | Heroku     | React Testing Library |
-| Redux      | MySQL      |          |                  | Ubuntu     | Sinon                 |
-|            | Node       |          |                  | Unix       |                       |
+| JavaScript | Express    | Hardhat  | Matplotlib       | Azure      | Jest                  |
+| JQuery     | FastAPI    | Moralis  | NumPy            | Docker     | Mocha                 |
+| Next.js    | Flask      | Solidity | Pandas           | Heroku     | RTL                   |
+| React.js   | MySQL      |          | Scikit-Learn     | Ubuntu     | Sinon                 |
+| Redux      | Node       |          | SciPy            | Unix       |                       |
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
 

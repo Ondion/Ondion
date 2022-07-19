@@ -19,7 +19,6 @@ You can reach me at:
 
 <hr>
 <p><strong>🔭 currently I've been doing things with ...</strong></p>
-<div>
 
   | Front      | Back       | Web3     | Machine Learning | Deployment | Tests                 |
 |------------|------------|----------|------------------|------------|-----------------------|
@@ -32,4 +31,3 @@ You can reach me at:
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
 
-</div>

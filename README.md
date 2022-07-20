@@ -18,7 +18,7 @@ You can reach me at:
 <div>
 
 <hr>
-<p><strong>🔭 currently I've been doing things with ...</strong></p>
+<p><strong>🔭 I've been doing things with;</strong></p>
 
 | Front-end  | Back-end   | Web3     | Machine Learning | Deployment | Tests                 |
 |------------|------------|----------|------------------|------------|-----------------------|

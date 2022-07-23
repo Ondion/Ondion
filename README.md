@@ -26,8 +26,8 @@ You can reach me at:
 | JavaScript | Express    | Hardhat  | Matplotlib       | Azure      | Jest                  |
 | JQuery     | FastAPI    | Moralis  | NumPy            | Docker     | Mocha                 |
 | Next.js    | Flask      | Solidity | Pandas           | Heroku     | RTL                   |
-| React.js   | MySQL      |          | Scikit-Learn     | Ubuntu     | Sinon                 |
-| Redux      | Node       |          | SciPy            | Unix       |                       |
+| React.js   | MySQL      |          | Scikit-Learn     | Unix       | Sinon                 |
+| Redux      | Node       |          | SciPy            |            |                       |
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
 

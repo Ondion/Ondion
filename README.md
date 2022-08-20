@@ -14,7 +14,7 @@ You can reach me at:
 <img style="display: block;" width="750px" src="images/octocat.jpg" />
 <div style="display: inline-block;">
   <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondion&layout=compact" />
-  <img width="408px" src="https://github-readme-stats.vercel.app/api?username=Ondion&show_icons=true" />
+  <img width="340px" src="https://github-readme-stats.vercel.app/api?username=Ondion&show_icons=true" />
 <div>
 
 <hr>

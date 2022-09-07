@@ -4,7 +4,7 @@
 <p>I`m Fábio Xavier, a passionate <strong>Javascript</strong> and <strong>Python</strong> Developer, always involved with technology and working on something interesting.  
 I love developing things, ideas, and people! Nothing brings me more joy than help others and learn together.</p>
 
-You can reach me at:
+You can reach me at
 
 <a href = "mailto:fabio.xavier@live.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/fabionxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>

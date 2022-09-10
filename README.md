@@ -8,7 +8,7 @@ You can reach me at
 
 <a href = "mailto:fabio.xavier@live.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/fabionxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-<!-- <a href="https://ondion.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%230077B5?style=for-the-badge&logo=github&color=yellow" target="_blank"/></a> -->
+<a href="https://ondion.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%230077B5?style=for-the-badge&logo=github&color=yellow" target="_blank"/></a>
 
 
 <img style="display: block;" width="750px" src="images/octocat.jpg" />

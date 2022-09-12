@@ -1,11 +1,15 @@
 <div style="text-align: center;">
-  <h1>Welcome!  :octocat:</h1>
+  <h1>Olá!  :octocat:</h1>
 </div>
-<p>I`m Fábio Xavier, a passionate <strong>Javascript</strong> and <strong>Python</strong> Developer, always involved with technology and working on something interesting.  
+<p>Sou o Fábio Xavier, um desenvolvedor Javascript, Python e Rust, apaixonado por tecnologia e sempre trabalhando em algo novo. Eu vivo de desenvolver novas aplicações, ideias e pessoas! Nada me alegra mais do que ajudar outros e aprender junto.</p>
+<hr>
+<strong>Welcome!  :octocat:</strong>
+<p>I`m Fábio Xavier, a passionate <strong>Javascript</strong>, <strong>Python</strong> and <strong>Rust</strong> Developer, always involved with technology and working on something interesting.  
 I love developing things, ideas, and people! Nothing brings me more joy than help others and learn together.</p>
-
-You can reach me at
-
+<hr>
+<strong>Você pode falar comigo via:<br>
+You can reach me at:</strong><br>
+<br>
 <a href = "mailto:fabio.xavier@live.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/fabionxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="https://ondion.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%230077B5?style=for-the-badge&logo=github&color=yellow" target="_blank"/></a>
@@ -24,10 +28,10 @@ You can reach me at
 |------------|------------|----------|------------------|------------|-----------------------|
 | Bootstrap  | Django     | Ether.js | Jupyter Notebook | AWS        | Chai                  |
 | JavaScript | Express    | Hardhat  | Matplotlib       | Azure      | Jest                  |
-| JQuery     |  Flask     | Moralis  | NumPy            | Docker     | Mocha                 |
+| JQuery     | Flask      | Moralis  | NumPy            | Docker     | Mocha                 |
 | Next.js    | Mongo DB   | Solidity | Pandas           | Heroku     | RTL                   |
 | React.js   | MySQL      |          | Scikit-Learn     | Unix       | Sinon                 |
 | Redux      | Node       |          | SciPy            |            |                       |
+|            | Rust       |          |                  |            |                       |
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
-|            |            |          |                  |            |                       |

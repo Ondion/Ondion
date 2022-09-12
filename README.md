@@ -24,10 +24,10 @@ You can reach me at
 |------------|------------|----------|------------------|------------|-----------------------|
 | Bootstrap  | Django     | Ether.js | Jupyter Notebook | AWS        | Chai                  |
 | JavaScript | Express    | Hardhat  | Matplotlib       | Azure      | Jest                  |
-| JQuery     | FastAPI    | Moralis  | NumPy            | Docker     | Mocha                 |
-| Next.js    | Flask      | Solidity | Pandas           | Heroku     | RTL                   |
+| JQuery     |  Flask     | Moralis  | NumPy            | Docker     | Mocha                 |
+| Next.js    | Mongo DB   | Solidity | Pandas           | Heroku     | RTL                   |
 | React.js   | MySQL      |          | Scikit-Learn     | Unix       | Sinon                 |
 | Redux      | Node       |          | SciPy            |            |                       |
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
-|            | Mongo DB   |          |                  |            |                       |
+|            |            |          |                  |            |                       |

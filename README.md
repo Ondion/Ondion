@@ -30,4 +30,4 @@ You can reach me at
 | Redux      | Node       |          | SciPy            |            |                       |
 |            | Sequelize  |          |                  |            |                       |
 |            | Typescript |          |                  |            |                       |
-
+|            | Mongo DB   |          |                  |            |                       |

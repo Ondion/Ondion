@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Olá! :octocat:</h1>
+  <h1>! :octocat:</h1>
 </div>
 <p>Sou o Fábio Xavier, um desenvolvedor <strong>Javascript</strong>, <strong>Python</strong> e <strong>Rust</strong>, apaixonado por tecnologia e sempre trabalhando em algo novo. Eu vivo de desenvolver novas aplicações, ideias e pessoas! Nada me alegra mais do que ajudar outros e aprender junto.</p>
 <hr>

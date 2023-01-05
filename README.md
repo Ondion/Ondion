@@ -15,11 +15,11 @@ You can reach me at:</strong><br>
 <!-- <a href="https://ondion.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%230077B5?style=for-the-badge&logo=github&color=yellow" target="_blank"/></a> -->
 
 
-<img style="display: block;" width="750px" src="images/octocat.jpg" />
+<!-- <img style="display: block;" width="750px" src="images/octocat.jpg" />
 <div style="display: inline-block;">
   <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondion&layout=compact" />
   <img width="340px" src="https://github-readme-stats.vercel.app/api?username=Ondion&show_icons=true" />
-<div>
+<div> -->
 
 <hr>
 <p><strong>🔭 I've been doing things with;</strong></p>
